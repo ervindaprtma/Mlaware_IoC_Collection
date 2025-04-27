@@ -1,2 +1,2 @@
-# Mlaware_IoC_Collection
+# Malware_IoC_Collection
 Koleksi malware hash untuk blocklist fortigate or other
